@@ -1,0 +1,69 @@
+{
+    "country": [
+      {
+        "id": 1,
+        "name": "cananda",
+        "states": [
+          {
+            "id": 101,
+            "name": "toronto",
+            "cities": [
+                {
+                    "id": 1001,
+                    "name":"dubai"
+                },
+                {
+                    "id": 1002,
+                    "name": "abudhabi"
+                } ]
+          },
+          {
+            "id": 102,
+            "name": "london",
+            "cities": [
+                {
+                    "id": 1003,
+                    "name":"america"
+                },
+                {
+                    "id": 1004,
+                    "name": "russia"
+                } ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "india",
+        "states": [
+          {
+            "id": 103,
+            "name": "gujarat",
+            "cities": [
+                {
+                    "id": 1005,
+                    "name":"ahmedabad"
+                },
+                {
+                    "id": 1006,
+                    "name": "rajkot"
+                } ]
+          },
+          {
+            "id": 104,
+            "name": "rajasthan",
+            "cities": [
+                {
+                    "id": 1007,
+                    "name":"udaipur"
+                },
+                {
+                    "id": 1008,
+                    "name": "jaipur"
+                } ]
+          }
+        ]
+    }
+    ]
+  }
+  
